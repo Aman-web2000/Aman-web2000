@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aman-web2000
 - 👀 I’m interested in Machine Learning, Data science And AI
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 🤝 I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me chauhanaman909@gmail.com
 
 <!---
