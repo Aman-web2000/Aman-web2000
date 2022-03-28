@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Aman-web2000
-- 👀 I’m interested in Machine Learning, Data science And AI
-- 🌱 I’m building Knowledge on Deep Learning
-- 🤝 I’m looking to collaborate on Machine Learning Projects
-- 📫 How to reach me chauhanaman909@gmail.com
-
 <!---
 Aman-web2000/Aman-web2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -12,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="left">
 
-### Hi :wave:, I'm Marcos Henrique. Welcome to my Github profile! :vulcan_salute:	
+### Hi :wave:, I'm Aman Chauhan. Welcome to my Github profile! :vulcan_salute:	
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cheltenham+Condensed+Bold&color=AF69F7&lines=Passionate+about+Data;Interested+in;Artificial+Intelligence;Data+Science;Mathematics+and+Statistics.)](https://git.io/typing-svg)
 
@@ -62,14 +56,12 @@ You can click the Preview link to take a look at your changes.
   
 Civil engineer who decided to start a journey to become a Data Scientist, when I discovered that there is an field where to be good, you need to be curious and like math, I fell in love right away. :heart_eyes: 
     <ul>
-      <li>🔭 ...I'm currently seeking a Data Science/Analytics entry level job.</li>
-      <li>🌱 ...I’m currently studying Python and SQL.</li>
+      <li>🔭 ...I'm currently seeking a Data Science/Machine Learning entry level job.</li>
+      <li>🌱 ...I’m currently studying Deep Learning.</li>
       <li>👯 ...I’m looking to collaborate on any work with big value to my career.</li>
       <li>💬 ...Ask me about anything, If I can help, I'll be very happy.</li>
-      <li>🎮 ...I like games, anime and music, so if you like it too, we already have something to talk about.</li>
-      <li>📚 ...But my passion is reading, I love books, literature, philosophy and horror novels.</li>
-      <li>📚 ...However, my addiction is in science fiction, especially Cyberpunk. ❤️❤️❤️</li>
-      <li>💬 ...My discord ID is: marcoshsq#0571 If you want to chat.</li>
+      <li>🎮 ...I like games, anime and volleyball, so if you like it too, we already have something to talk about.</li>
+      <li>💬 ...My discord ID is: Aman_2000#3362 If you want to chat.</li>
     </ul>
 </div>
 <hr>  
