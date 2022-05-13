@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi :wave:, I'm Aman Chauhan. Welcome to my Github profile! :vulcan_salute:	
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cheltenham+Condensed+Bold&color=AF69F7&lines=Passionate+about+Data;Interested+in;Artificial+Intelligence;Data+Science;Mathematics+and+Statistics.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cheltenham+Condensed+Bold&color=AF69F7&lines=Passionate+about+Data;Interested+in;Data+Science;Machine+Learning;Data+Analytics.)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://linktr.ee/marcos_hsq">
