@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cheltenham+Condensed+Bold&color=AF69F7&lines=Passionate+about+Data;Interested+in;Data+Science;Machine+Learning;Data+Analytics.)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://linktr.ee/marcos_hsq">
+  <a href="https://linktr.ee/aman909">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Aman-web2000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-web2000&layout=compact&langs_count=7&theme=tokyonight"/>   
 <div style="display: inline_block"><br>
